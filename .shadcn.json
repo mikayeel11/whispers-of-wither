@@ -1,0 +1,15 @@
+{
+  "project": {
+    "name": "whispers-of-wither",
+    "type": "app",
+    "language": "ts",
+    "components": "components",
+    "aliases": {
+      "@/components": "./components"
+    },
+    "tailwind": {
+      "config": "tailwind.config.ts",
+      "css": "app/globals.css"
+    }
+  }
+}
