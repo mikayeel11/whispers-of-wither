@@ -1,8 +1,8 @@
 
-import { useState } from \"react\";
-import { Switch } from \"@/components/ui/switch\";
-import { Card, CardContent } from \"@/components/ui/card\";
-import { ScrollArea } from \"@/components/ui/scroll-area\";
+import { useState } from "react";
+import { Switch } from "@/components/ui/switch";
+import { Card, CardContent } from "@/components/ui/card";
+import { ScrollArea } from "@/components/ui/scroll-area";
 
 export default function Home() {
   const [darkMode, setDarkMode] = useState(true);
