@@ -1,0 +1,1 @@
+// Placeholder ScrollArea component for vertical archive scroll.

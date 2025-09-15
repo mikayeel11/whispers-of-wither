@@ -1,0 +1,1 @@
+// Placeholder Card component for writing archive.

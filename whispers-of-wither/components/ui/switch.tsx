@@ -1,0 +1,1 @@
+// Placeholder Switch component for dark mode toggle.
