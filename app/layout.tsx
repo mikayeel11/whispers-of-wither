@@ -1,5 +1,7 @@
 // app/layout.tsx
 
+import './globals.css';
+
 export const metadata = {
   title: 'Whispers of Wither',
   description: 'Welcome to the project.',
